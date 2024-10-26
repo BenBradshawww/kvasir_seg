@@ -76,8 +76,8 @@ My second attempt of using DuckNet reduced the start number of filters to 10. Th
 
 ## Results
 The best performance was from the Smaller U-Net Model. It is able to identify the cancerous tumours within the Pancreas. However, the model requires further training to improve it's performance.
-![alt text](smaller_u_net_0.png)
-![alt text](smaller_u_net_1.png)
+![alt text](./model_photos/smaller_u_net/smaller_u_net_0.png)
+![alt text](./model_photos/smaller_u_net/smaller_u_net_1.png)
 
 
 
