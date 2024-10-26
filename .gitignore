@@ -5,3 +5,6 @@ test/
 
 # Ignore model checkpoints
 model_checkpoints/
+
+# Ignore pycache
+__pycache__/
