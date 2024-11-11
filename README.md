@@ -7,12 +7,8 @@ Table of Contents
 * Project Structure
 * Setup and Installation
 * Data Preprocessing
-* Machine Learning Models
-* Evaluation Metrics
-* Results
 * Challenges and Limitations
-* Conclusion
-* Future Work
+* Results
 * References
 
 
